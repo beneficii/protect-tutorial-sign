@@ -1,0 +1,1996 @@
+fileFormatVersion: 2
+guid: 73fcef0200b09ba4f9dc9aa6b38a76f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5179567965331925707
+    second: kenneyPixelFont_0
+  - first:
+      213: 2259882282021130474
+    second: kenneyPixelFont_1
+  - first:
+      213: 2248464563247998493
+    second: kenneyPixelFont_2
+  - first:
+      213: -1814989498763691028
+    second: kenneyPixelFont_3
+  - first:
+      213: 5110724540327699240
+    second: kenneyPixelFont_4
+  - first:
+      213: 5305604364126053291
+    second: kenneyPixelFont_5
+  - first:
+      213: 7481346650084546033
+    second: kenneyPixelFont_6
+  - first:
+      213: -7702496172496005458
+    second: kenneyPixelFont_7
+  - first:
+      213: -8090893956292465329
+    second: kenneyPixelFont_8
+  - first:
+      213: -7017452251080529935
+    second: kenneyPixelFont_9
+  - first:
+      213: 4372824623444932537
+    second: kenneyPixelFont_10
+  - first:
+      213: 8275763251516306326
+    second: kenneyPixelFont_11
+  - first:
+      213: 2591427589431106509
+    second: kenneyPixelFont_12
+  - first:
+      213: -9137809240489634834
+    second: kenneyPixelFont_13
+  - first:
+      213: 3061702747357891947
+    second: kenneyPixelFont_14
+  - first:
+      213: 485565162540968010
+    second: kenneyPixelFont_15
+  - first:
+      213: -8093001352235859671
+    second: kenneyPixelFont_16
+  - first:
+      213: 2355247351349214283
+    second: kenneyPixelFont_17
+  - first:
+      213: 6599997068994136326
+    second: kenneyPixelFont_18
+  - first:
+      213: 4980835714579917182
+    second: kenneyPixelFont_19
+  - first:
+      213: -2291416253739884648
+    second: kenneyPixelFont_20
+  - first:
+      213: -6379354347358038759
+    second: kenneyPixelFont_21
+  - first:
+      213: -2499337962131377451
+    second: kenneyPixelFont_22
+  - first:
+      213: -3518817786541824155
+    second: kenneyPixelFont_23
+  - first:
+      213: 8940525012461016025
+    second: kenneyPixelFont_24
+  - first:
+      213: 975054621940075777
+    second: kenneyPixelFont_25
+  - first:
+      213: -6813396442478124003
+    second: kenneyPixelFont_26
+  - first:
+      213: -25856317820887208
+    second: kenneyPixelFont_27
+  - first:
+      213: 9048397718823897381
+    second: kenneyPixelFont_28
+  - first:
+      213: -3651624922969613414
+    second: kenneyPixelFont_29
+  - first:
+      213: 4962735132397874545
+    second: kenneyPixelFont_30
+  - first:
+      213: -10056485432926148
+    second: kenneyPixelFont_31
+  - first:
+      213: -2136486013562607394
+    second: kenneyPixelFont_32
+  - first:
+      213: -5756304658593429087
+    second: kenneyPixelFont_33
+  - first:
+      213: -4641977429463734795
+    second: kenneyPixelFont_34
+  - first:
+      213: 3370442340343325331
+    second: kenneyPixelFont_35
+  - first:
+      213: 5533769626823670185
+    second: kenneyPixelFont_36
+  - first:
+      213: 4323830446531915808
+    second: kenneyPixelFont_37
+  - first:
+      213: -9147582286785784818
+    second: kenneyPixelFont_38
+  - first:
+      213: 696445129423707968
+    second: kenneyPixelFont_39
+  - first:
+      213: 8536154309095949
+    second: kenneyPixelFont_40
+  - first:
+      213: -7487580485364972979
+    second: kenneyPixelFont_41
+  - first:
+      213: -3047463043986211331
+    second: kenneyPixelFont_42
+  - first:
+      213: 3970174676865087744
+    second: kenneyPixelFont_43
+  - first:
+      213: 2083232235352043221
+    second: kenneyPixelFont_44
+  - first:
+      213: -7276654879371683132
+    second: kenneyPixelFont_45
+  - first:
+      213: -4095645368265177465
+    second: kenneyPixelFont_46
+  - first:
+      213: 8897409489655804841
+    second: kenneyPixelFont_47
+  - first:
+      213: 6670099070267886593
+    second: kenneyPixelFont_48
+  - first:
+      213: -5603696363474747748
+    second: kenneyPixelFont_49
+  - first:
+      213: 5860229061125898427
+    second: kenneyPixelFont_50
+  - first:
+      213: -1808116937217140799
+    second: kenneyPixelFont_51
+  - first:
+      213: 7774605787941405245
+    second: kenneyPixelFont_52
+  - first:
+      213: -2638176573162869188
+    second: kenneyPixelFont_53
+  - first:
+      213: -8759485975012300382
+    second: kenneyPixelFont_54
+  - first:
+      213: -4126256498802556020
+    second: kenneyPixelFont_55
+  - first:
+      213: 3867372062970655055
+    second: kenneyPixelFont_56
+  - first:
+      213: 2869534562206227313
+    second: kenneyPixelFont_57
+  - first:
+      213: 3948219664517324316
+    second: kenneyPixelFont_58
+  - first:
+      213: 4288372967276251356
+    second: kenneyPixelFont_59
+  - first:
+      213: 4368471135190623992
+    second: kenneyPixelFont_60
+  - first:
+      213: 4307977589952208472
+    second: kenneyPixelFont_61
+  - first:
+      213: 3227518477360423075
+    second: kenneyPixelFont_62
+  - first:
+      213: -585298005532821616
+    second: kenneyPixelFont_63
+  - first:
+      213: 6599601394185899590
+    second: kenneyPixelFont_64
+  - first:
+      213: -3772749473249800758
+    second: kenneyPixelFont_65
+  - first:
+      213: -8410707547679396120
+    second: kenneyPixelFont_66
+  - first:
+      213: -4060164147960135780
+    second: kenneyPixelFont_67
+  - first:
+      213: 730460500863964713
+    second: kenneyPixelFont_68
+  - first:
+      213: -381646371945902821
+    second: kenneyPixelFont_69
+  - first:
+      213: -830337586181189216
+    second: kenneyPixelFont_70
+  - first:
+      213: -5980406148543576786
+    second: kenneyPixelFont_71
+  - first:
+      213: 2433140007479707518
+    second: kenneyPixelFont_72
+  - first:
+      213: 2744134476403358183
+    second: kenneyPixelFont_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kenneyPixelFont_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d568c06a7e18b0800000000000000
+      internalID: -5179567965331925707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0911e46f6bc5f10800000000000000
+      internalID: 2259882282021130474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16637e7b96243f10800000000000000
+      internalID: 2248464563247998493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3027caacdfc6e0800000000000000
+      internalID: -1814989498763691028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 2
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823aa1344e0fce640800000000000000
+      internalID: 5110724540327699240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 1
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ee721f0b41a940800000000000000
+      internalID: 5305604364126053291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f519dfe32513d760800000000000000
+      internalID: 7481346650084546033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d19a6a8c3b1590800000000000000
+      internalID: -7702496172496005458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d25db60de57bf80800000000000000
+      internalID: -8090893956292465329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f764129b500d9e90800000000000000
+      internalID: -7017452251080529935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73489a3d46fac30800000000000000
+      internalID: 4372824623444932537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937cd394da69d270800000000000000
+      internalID: 8275763251516306326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1031a9a996f320800000000000000
+      internalID: 2591427589431106509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35553f8eaff2180800000000000000
+      internalID: -9137809240489634834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dca185d6a5d7a20800000000000000
+      internalID: 3061702747357891947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a482f8451f21db600800000000000000
+      internalID: 485565162540968010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c9311622efaf80800000000000000
+      internalID: -8093001352235859671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7957ccf48fa020800000000000000
+      internalID: 2355247351349214283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c300bd56e79b50800000000000000
+      internalID: 6599997068994136326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e796d1c51bb7f1540800000000000000
+      internalID: 4980835714579917182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f1743ce014330e0800000000000000
+      internalID: -2291416253739884648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9155165350bf777a0800000000000000
+      internalID: -6379354347358038759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2b2819d51905dd0800000000000000
+      internalID: -2499337962131377451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56729dbddd5aa2fc0800000000000000
+      internalID: -3518817786541824155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3db314120231c70800000000000000
+      internalID: 8940525012461016025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d47593307188d00800000000000000
+      internalID: 975054621940075777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146e24d804f171a0800000000000000
+      internalID: -6813396442478124003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1611e0d324aff0800000000000000
+      internalID: -25856317820887208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52904f8e8cd529d70800000000000000
+      internalID: 9048397718823897381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bde6dca72d25dc0800000000000000
+      internalID: -3651624922969613414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2de82f4d2fd440800000000000000
+      internalID: 4962735132397874545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e4160ea54cdff0800000000000000
+      internalID: -10056485432926148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a20e4a4da952e0800000000000000
+      internalID: -2136486013562607394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9cc95496f7d10b0800000000000000
+      internalID: -5756304658593429087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ee654f12649fb0800000000000000
+      internalID: -4641977429463734795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a910837736ce20800000000000000
+      internalID: 3370442340343325331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bbab0826ebcc40800000000000000
+      internalID: 5533769626823670185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020bd8ae1e4510c30800000000000000
+      internalID: 4323830446531915808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045a7a40624d0180800000000000000
+      internalID: -9147582286785784818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd9d0c7254aa900800000000000000
+      internalID: 696445129423707968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02775d46935e1000800000000000000
+      internalID: 8536154309095949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428cae2835c61890800000000000000
+      internalID: -7487580485364972979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3215f18c35b5d0800000000000000
+      internalID: -3047463043986211331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1
+        width: 20
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097bce65d4e81730800000000000000
+      internalID: 3970174676865087744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2dcc3ea029ec10800000000000000
+      internalID: 2083232235352043221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_45
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca10f9c0f0240b90800000000000000
+      internalID: -7276654879371683132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786849abc385927c0800000000000000
+      internalID: -4095645368265177465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3bf145ac2f97b70800000000000000
+      internalID: 8897409489655804841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0bf3c3c3f09c50800000000000000
+      internalID: 6670099070267886593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e70f9d8dbab32b0800000000000000
+      internalID: -5603696363474747748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb084d24847b35150800000000000000
+      internalID: 5860229061125898427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71ec4b93748e6e0800000000000000
+      internalID: -1808116937217140799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3281f2c5c2f4eb60800000000000000
+      internalID: 7774605787941405245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eaed56260536bd0800000000000000
+      internalID: -2638176573162869188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9206c5aed007680800000000000000
+      internalID: -8759485975012300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_55
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830ab083979cb6c0800000000000000
+      internalID: -4126256498802556020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b2aba66aaba530800000000000000
+      internalID: 3867372062970655055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_57
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b120b1b72a2d720800000000000000
+      internalID: 2869534562206227313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e54c6cdd4eac630800000000000000
+      internalID: 3948219664517324316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_59
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd883e23e7c538b30800000000000000
+      internalID: 4288372967276251356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a5903a5def9c30800000000000000
+      internalID: 4368471135190623992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed17d1bc209cb30800000000000000
+      internalID: 4307977589952208472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e31d74f27acc20800000000000000
+      internalID: 3227518477360423075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_63
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b874a09a90e7f0800000000000000
+      internalID: -585298005532821616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e8f97708e769b50800000000000000
+      internalID: 6599601394185899590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_65
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd476cc75084abc0800000000000000
+      internalID: -3772749473249800758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6fd61c0a274b80800000000000000
+      internalID: -8410707547679396120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3f07183667a7c0800000000000000
+      internalID: -4060164147960135780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926537494fd132a00800000000000000
+      internalID: 730460500863964713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d095295ae14baf0800000000000000
+      internalID: -381646371945902821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 1
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d30c5d5c0a74f0800000000000000
+      internalID: -830337586181189216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258f7f1b44510da0800000000000000
+      internalID: -5980406148543576786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778e9a02ff34c120800000000000000
+      internalID: 2433140007479707518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kenneyPixelFont_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9bce964cf151620800000000000000
+      internalID: 2744134476403358183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kenneyPixelFont_63: -585298005532821616
+      kenneyPixelFont_33: -5756304658593429087
+      kenneyPixelFont_45: -7276654879371683132
+      kenneyPixelFont_50: 5860229061125898427
+      kenneyPixelFont_58: 3948219664517324316
+      kenneyPixelFont_22: -2499337962131377451
+      kenneyPixelFont_9: -7017452251080529935
+      kenneyPixelFont_72: 2433140007479707518
+      kenneyPixelFont_5: 5305604364126053291
+      kenneyPixelFont_29: -3651624922969613414
+      kenneyPixelFont_71: -5980406148543576786
+      kenneyPixelFont_73: 2744134476403358183
+      kenneyPixelFont_49: -5603696363474747748
+      kenneyPixelFont_36: 5533769626823670185
+      kenneyPixelFont_41: -7487580485364972979
+      kenneyPixelFont_17: 2355247351349214283
+      kenneyPixelFont_10: 4372824623444932537
+      kenneyPixelFont_43: 3970174676865087744
+      kenneyPixelFont_56: 3867372062970655055
+      kenneyPixelFont_20: -2291416253739884648
+      kenneyPixelFont_2: 2248464563247998493
+      kenneyPixelFont_39: 696445129423707968
+      kenneyPixelFont_35: 3370442340343325331
+      kenneyPixelFont_57: 2869534562206227313
+      kenneyPixelFont_68: 730460500863964713
+      kenneyPixelFont_70: -830337586181189216
+      kenneyPixelFont_15: 485565162540968010
+      kenneyPixelFont_16: -8093001352235859671
+      kenneyPixelFont_61: 4307977589952208472
+      kenneyPixelFont_19: 4980835714579917182
+      kenneyPixelFont_40: 8536154309095949
+      kenneyPixelFont_44: 2083232235352043221
+      kenneyPixelFont_64: 6599601394185899590
+      kenneyPixelFont_34: -4641977429463734795
+      kenneyPixelFont_4: 5110724540327699240
+      kenneyPixelFont_66: -8410707547679396120
+      kenneyPixelFont_30: 4962735132397874545
+      kenneyPixelFont_59: 4288372967276251356
+      kenneyPixelFont_8: -8090893956292465329
+      kenneyPixelFont_7: -7702496172496005458
+      kenneyPixelFont_18: 6599997068994136326
+      kenneyPixelFont_62: 3227518477360423075
+      kenneyPixelFont_14: 3061702747357891947
+      kenneyPixelFont_3: -1814989498763691028
+      kenneyPixelFont_28: 9048397718823897381
+      kenneyPixelFont_11: 8275763251516306326
+      kenneyPixelFont_31: -10056485432926148
+      kenneyPixelFont_1: 2259882282021130474
+      kenneyPixelFont_67: -4060164147960135780
+      kenneyPixelFont_47: 8897409489655804841
+      kenneyPixelFont_48: 6670099070267886593
+      kenneyPixelFont_53: -2638176573162869188
+      kenneyPixelFont_60: 4368471135190623992
+      kenneyPixelFont_6: 7481346650084546033
+      kenneyPixelFont_54: -8759485975012300382
+      kenneyPixelFont_25: 975054621940075777
+      kenneyPixelFont_26: -6813396442478124003
+      kenneyPixelFont_55: -4126256498802556020
+      kenneyPixelFont_52: 7774605787941405245
+      kenneyPixelFont_51: -1808116937217140799
+      kenneyPixelFont_0: -5179567965331925707
+      kenneyPixelFont_46: -4095645368265177465
+      kenneyPixelFont_65: -3772749473249800758
+      kenneyPixelFont_23: -3518817786541824155
+      kenneyPixelFont_32: -2136486013562607394
+      kenneyPixelFont_69: -381646371945902821
+      kenneyPixelFont_37: 4323830446531915808
+      kenneyPixelFont_38: -9147582286785784818
+      kenneyPixelFont_21: -6379354347358038759
+      kenneyPixelFont_42: -3047463043986211331
+      kenneyPixelFont_27: -25856317820887208
+      kenneyPixelFont_24: 8940525012461016025
+      kenneyPixelFont_12: 2591427589431106509
+      kenneyPixelFont_13: -9137809240489634834
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

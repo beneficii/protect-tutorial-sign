@@ -1,0 +1,3239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ca2b972738e9141bb9b9583086d641, type: 3}
+  m_Name: DatabaseAsset
+  m_EditorClassIdentifier: 
+  files:
+  - {fileID: 4900000, guid: a5be95778eaba714290c75c309ec81b6, type: 3}
+  - {fileID: 4900000, guid: 8a9ff69c397633a40b3d79d4da683f7e, type: 3}
+  - {fileID: 4900000, guid: 1830baf67d4c4344798b5f0c03ba9a4e, type: 3}
+  - {fileID: 4900000, guid: 4253b9c2d543b62429f50300c65ad6bf, type: 3}
+  - {fileID: 4900000, guid: 024002d44f959bf469727e4332d65a82, type: 3}
+  - {fileID: 4900000, guid: 7243159ac9d4f8f46a755feae356f7b4, type: 3}
+  towers:
+  - color: 0
+    levels:
+    - color: 0
+      name: Healer
+      level: 1
+      hp: 6
+      damage: 2
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 2
+      hp: 6
+      damage: 5
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 3
+      hp: 6
+      damage: 8
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 4
+      hp: 6
+      damage: 10
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 5
+      hp: 6
+      damage: 12
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 6
+      hp: 6
+      damage: 14
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+    - color: 0
+      name: Healer
+      level: 7
+      hp: 6
+      damage: 16
+      range: 3
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Repairs wall
+  - color: 1
+    levels:
+    - color: 1
+      name: Quick
+      level: 1
+      hp: 6
+      damage: 1
+      range: 4
+      attackRate: 1.6666666
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 2
+      hp: 6
+      damage: 1
+      range: 4
+      attackRate: 0.6666667
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 3
+      hp: 6
+      damage: 1
+      range: 4
+      attackRate: 0.5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 4
+      hp: 6
+      damage: 1
+      range: 4
+      attackRate: 0.35714287
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 5
+      hp: 6
+      damage: 1
+      range: 4
+      attackRate: 0.2857143
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 6
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 0.23809524
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+    - color: 1
+      name: Quick
+      level: 7
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 0.2
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: High firerate
+  - color: 2
+    levels:
+    - color: 2
+      name: Ice
+      level: 1
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 2
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 3
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 3
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 4
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 2.5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 5
+      hp: 6
+      damage: 1
+      range: 5
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 6
+      hp: 6
+      damage: 1
+      range: 6
+      attackRate: 1.5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+    - color: 2
+      name: Ice
+      level: 7
+      hp: 6
+      damage: 1
+      range: 6
+      attackRate: 1
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Slows target
+  - color: 5
+    levels:
+    - color: 5
+      name: Sniper
+      level: 1
+      hp: 6
+      damage: 5
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 2
+      hp: 6
+      damage: 12
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 3
+      hp: 6
+      damage: 17
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 4
+      hp: 6
+      damage: 24
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 5
+      hp: 6
+      damage: 30
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 6
+      hp: 6
+      damage: 36
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+    - color: 5
+      name: Sniper
+      level: 7
+      hp: 6
+      damage: 42
+      range: 7
+      attackRate: 5
+      moveSpeed: 0
+      splash: 0
+      targets: 0
+      description: Long range
+  - color: 6
+    levels:
+    - color: 6
+      name: Chain
+      level: 1
+      hp: 6
+      damage: 2
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 1
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 2
+      hp: 6
+      damage: 3
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 1
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 3
+      hp: 6
+      damage: 3
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 2
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 4
+      hp: 6
+      damage: 4
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 2
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 5
+      hp: 6
+      damage: 4
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 3
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 6
+      hp: 6
+      damage: 5
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 3
+      description: Multiple targets
+    - color: 6
+      name: Chain
+      level: 7
+      hp: 6
+      damage: 5
+      range: 3
+      attackRate: 2
+      moveSpeed: 0
+      splash: 0
+      targets: 4
+      description: Multiple targets
+  - color: 7
+    levels:
+    - color: 7
+      name: Splash
+      level: 1
+      hp: 6
+      damage: 2
+      range: 4
+      attackRate: 3
+      moveSpeed: 0
+      splash: 0.2
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 2
+      hp: 6
+      damage: 4
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0.4
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 3
+      hp: 6
+      damage: 6
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0.4
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 4
+      hp: 6
+      damage: 8
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0.5
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 5
+      hp: 6
+      damage: 10
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0.5
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 6
+      hp: 6
+      damage: 12
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 0.7
+      targets: 0
+      description: Area attack
+    - color: 7
+      name: Splash
+      level: 7
+      hp: 6
+      damage: 14
+      range: 4
+      attackRate: 4
+      moveSpeed: 0
+      splash: 1
+      targets: 0
+      description: Area attack
+  enemies:
+  - color: 3
+    name: Target Dummy
+    level: 0
+    hp: 6
+    damage: 0
+    range: 1
+    attackRate: 10
+    moveSpeed: 0
+    splash: 0
+    targets: 0
+    description: 
+  - color: 3
+    name: MiniBot
+    level: 1
+    hp: 1
+    damage: 1
+    range: 2
+    attackRate: 4
+    moveSpeed: 2
+    splash: 0
+    targets: 0
+    description: 
+  - color: 3
+    name: RedBot
+    level: 2
+    hp: 3
+    damage: 2
+    range: 2
+    attackRate: 4
+    moveSpeed: 3.15
+    splash: 0
+    targets: 0
+    description: 
+  - color: 3
+    name: BlueBot
+    level: 3
+    hp: 12
+    damage: 3
+    range: 2
+    attackRate: 3
+    moveSpeed: 2
+    splash: 0
+    targets: 0
+    description: 
+  - color: 3
+    name: LegBot
+    level: 4
+    hp: 24
+    damage: 4
+    range: 2
+    attackRate: 2
+    moveSpeed: 2
+    splash: 0
+    targets: 0
+    description: 
+  - color: 3
+    name: HairBot
+    level: 5
+    hp: 96
+    damage: 8
+    range: 2
+    attackRate: 2
+    moveSpeed: 1
+    splash: 0
+    targets: 0
+    description: 
+  waves:
+  - innerList:
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - deactivate trashcan
+      - build grey mine
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Hold (_bHammer) to hammer
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Hammer Mine
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Press (_bUse) to place/take/use
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Place Furnace
+      rewards:
+      - build furnace
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: 
+      entrance: 0
+      tutorialKey: Wait Furnace
+      tutorialKeyRepeatable: 
+      rewards:
+      - activate trashcan
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Take that block from the Furnace
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Take Furnace
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Place it somewhere on the ground
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Add Construction
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Do the same with a red one
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Hammer Red Mine
+      rewards:
+      - build red mine
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Do the same with a red one
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Place Furnace
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Use sign to view building recipes
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - save
+      - recipe furnace
+      - uncover 1
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Try to build Furnace using the recipe
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Add Furnace
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Nice! Hammer a chest to get items
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Check out new recipe (at sign)
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - recipe pyramid
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Try to build it. Chest has all you need
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Add Pyramid
+      rewards:
+      - chest red bar red bar grey bar
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: This new building makes gems
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Hammer Red Mine
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Place Pyramid
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Gems can be used to build towers
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - save
+      - recipe tower
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Try to build a tower
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Add Tower
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: You can disassemble tower using hammer
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Hammer Tower
+      rewards:
+      - 
+    - unitLevel: 1
+      amount: 1
+      delay: 0
+      message: Move it closer to target dummy
+      entrance: 3
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Hammer a wall to repair it
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: FullHp Wall
+      rewards:
+      - damage Wall 5
+    - unitLevel: 2
+      amount: 3
+      delay: 5
+      message: Enemies incoming!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Check The sign for combining instructions
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - uncover 2
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Put one tower on the other to combine
+      entrance: 0
+      tutorialKey: TowerLevel 2
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 4
+      delay: 4
+      message: Nice. Now survive few waves
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 3
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 5
+      message: Don't forget to repair wall
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Let's add a new building
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - save
+      - recipe extractor
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Try to build it
+      entrance: 0
+      tutorialKey: Add Extractor
+      tutorialKeyRepeatable: 
+      rewards:
+      - chest grey bar grey bar grey bar
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: You can combine it with Furnace
+      entrance: 0
+      tutorialKey: Add BarExtractor
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 5
+      delay: 3
+      message: Now you have production of bars
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 5
+      delay: 5
+      message: Defend!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: New ore aviable!
+      entrance: 0
+      tutorialKey: Hammer Blue Mine
+      tutorialKeyRepeatable: 
+      rewards:
+      - build blue mine
+    - unitLevel: 0
+      amount: 1
+      delay: 4
+      message: You can make blue gem for tower
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: You can make even more ore using combiner
+      entrance: 0
+      tutorialKey: Read
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - recipe combiner
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: You can make even more ore using combiner
+      entrance: 0
+      tutorialKey: Add Combiner
+      tutorialKeyRepeatable: 
+      rewards:
+      - chest grey bar red bar blue bar
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: You can make even more ore using combiner
+      entrance: 0
+      tutorialKey: Wait Combiner
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 10
+      delay: 2
+      message: Defense time!
+      entrance: 1
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 2
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 10
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 3
+      delay: 6
+      message: 
+      entrance: 1
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 1
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 1
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 3
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Check out new building
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - save
+      - recipe cooker
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Cooker makes potions from ore
+      entrance: 0
+      tutorialKey: Add Cooker
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Cooker makes potions from ore
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Place Cooker
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Each potion is unique
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Take Cooker
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 10
+      delay: 3
+      message: Don't forget to repair
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 10
+      delay: 2
+      message: Good luck!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 10
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 3
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 0
+      message: Put Gem Porducer on bar extractor
+      entrance: 0
+      tutorialKey: Add TowerExtractor
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 10
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 5
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 1
+      delay: 3
+      message: Final push!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 2
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 3
+      delay: 5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 1
+      delay: 1
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: clear
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 8
+      message: Well done!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+  - innerList:
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: Use The Sign to begin
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - recipe all
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 2 minutes to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build grey mine
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 2 minutes to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build Furnace
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 2 minutes to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build red mine
+    - unitLevel: 0
+      amount: 1
+      delay: 60
+      message: 2 minutes to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build blue mine
+    - unitLevel: 0
+      amount: 1
+      delay: 30
+      message: 1 minute to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 20
+      message: 30 seconds to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: 10 seconds to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 5
+      delay: 4
+      message: Day 1
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest red potion red potion
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 10
+      delay: 2
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 2
+      delay: 4.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 15
+      delay: 1.33
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 3
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 5
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 20
+      delay: 1
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Day 2
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest red gem red gem grey upgrade_pot
+    - unitLevel: 3
+      amount: 4
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 7
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 2
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 2
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 2
+      delay: 2.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 25
+      delay: 0.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 5
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 9
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 3
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 3
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 3
+      delay: 1.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 20
+      delay: 0.8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Day 3
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest teal gem
+    - unitLevel: 2
+      amount: 1
+      delay: 12.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 12.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 30
+      delay: 0.67
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 6
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 11
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 4
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 4
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 24
+      delay: 0.67
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Day 4
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest red potion blue potion grey potion
+    - unitLevel: 2
+      amount: 1
+      delay: 6.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 6.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 1
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 1
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 35
+      delay: 0.57
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 7
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 13
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Day 5
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest brown bar brown bar brown bar
+    - unitLevel: 2
+      amount: 4
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 4
+      delay: 1.29
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 28
+      delay: 0.57
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 1
+      delay: 4.08
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 4.08
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 1
+      delay: 1.75
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 1
+      delay: 1.75
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 1.75
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 1.75
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Day 6
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest orange upgrade_tower orange upgrade_tower
+    - unitLevel: 6
+      amount: 1
+      delay: 5.14
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 40
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 8
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 15
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 1
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 5
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 5
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 5
+      delay: 1.13
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 32
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 16
+      message: Final Day!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest teal gem orange gem brown gem
+    - unitLevel: 2
+      amount: 2
+      delay: 3.06
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 2
+      delay: 3.06
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 4
+      delay: 1.53
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 1.53
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 4
+      delay: 1.53
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 4
+      delay: 1.53
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 4
+      delay: 4.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - clear
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: Well done!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+  - innerList:
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: Welcome to Hardcore!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: Read
+      rewards:
+      - recipe all
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 1 minute to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build grey mine
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 1 minute to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build Furnace
+    - unitLevel: 0
+      amount: 1
+      delay: 1
+      message: 1 minute to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build red mine
+    - unitLevel: 0
+      amount: 1
+      delay: 30
+      message: 1 minute to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - build blue mine
+    - unitLevel: 0
+      amount: 1
+      delay: 20
+      message: 30 seconds to prepare
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 1!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest grey potion
+    - unitLevel: 2
+      amount: 2
+      delay: 1.33
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 2
+      delay: 3
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 2
+      delay: 4.08
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 4.08
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 2!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue gem
+    - unitLevel: 2
+      amount: 2
+      delay: 0.67
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 1.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 5
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 2.04
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 3!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue potion
+    - unitLevel: 2
+      amount: 2
+      delay: 0.44
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 6
+      delay: 1
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 8
+      delay: 1.36
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 1.36
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 9
+      delay: 1.78
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 3
+      delay: 2.78
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 4!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue bar
+    - unitLevel: 2
+      amount: 2
+      delay: 0.33
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 8
+      delay: 0.75
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 11
+      delay: 1.02
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 1.02
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 12
+      delay: 1.33
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 4
+      delay: 2.08
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 5!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue upgrade_tower
+    - unitLevel: 2
+      amount: 2
+      delay: 0.27
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 10
+      delay: 0.6
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 14
+      delay: 0.82
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 0.82
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 15
+      delay: 1.07
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 5
+      delay: 1.67
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 1
+      delay: 2.4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 10
+      message: Day 6!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue upgrade_tower
+    - unitLevel: 2
+      amount: 2
+      delay: 0.22
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 12
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 17
+      delay: 0.68
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 1
+      delay: 0.68
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 18
+      delay: 0.89
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 6
+      delay: 1.39
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 2
+      delay: 2
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 1
+      delay: 16
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 5
+      message: Day 7!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest blue upgrade_tower
+    - unitLevel: 2
+      amount: 4
+      delay: 0.1
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 30
+      delay: 0.2
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 40
+      delay: 0.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 2
+      delay: 0.25
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 30
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 14
+      delay: 0.5
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 9
+      delay: 1
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 2
+      delay: 8
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 8
+      delay: 2.5
+      message: Final Day!
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - save
+      - chest brown potion
+    - unitLevel: 2
+      amount: 4
+      delay: 0.0425
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 64
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 3
+      amount: 4
+      delay: 0.095
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 92
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 2
+      amount: 4
+      delay: 0.1275
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 4
+      delay: 0.1275
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 96
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 4
+      amount: 4
+      delay: 0.1675
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 32
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 5
+      amount: 4
+      delay: 0.26
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 16
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 4
+      delay: 0.375
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 32
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 6
+      amount: 4
+      delay: 0.375
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+    - unitLevel: 0
+      amount: 0
+      delay: 4
+      message: 
+      entrance: 0
+      tutorialKey: 
+      tutorialKeyRepeatable: 
+      rewards:
+      - 
+  recipes:
+  - result: 2
+    description: Build your first thing
+    items:
+    - type: 1
+      color: 0
+      level: 0
+    - type: 1
+      color: 0
+      level: 0
+    - type: 2
+      color: 9
+      level: 0
+  - result: 5
+    description: Time for 2nd thing
+    items:
+    - type: 1
+      color: 0
+      level: 0
+    - type: 1
+      color: 1
+      level: 0
+    - type: 1
+      color: 0
+      level: 0
+  - result: 6
+    description: 
+    items:
+    - type: 1
+      color: 1
+      level: 0
+    - type: 1
+      color: 1
+      level: 0
+    - type: 1
+      color: 0
+      level: 0
+  - result: 14
+    description: 
+    items:
+    - type: 1
+      color: 9
+      level: 0
+    - type: 1
+      color: 9
+      level: 0
+    - type: 1
+      color: 9
+      level: 0
+    - type: 1
+      color: 9
+      level: 0
+  - result: 17
+    description: 
+    items:
+    - type: 1
+      color: 0
+      level: 0
+    - type: 1
+      color: 1
+      level: 0
+    - type: 1
+      color: 2
+      level: 0
+  - result: 21
+    description: 
+    items:
+    - type: 1
+      color: 0
+      level: 0
+    - type: 1
+      color: 2
+      level: 0
+    - type: 1
+      color: 2
+      level: 0

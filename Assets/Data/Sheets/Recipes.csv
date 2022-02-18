@@ -1,0 +1,7 @@
+result|description|items
+Tower|Build your first thing|grey bar;grey bar;any gem
+Furnace|Time for 2nd thing|grey bar;red bar;grey bar
+Pyramid||red bar;red bar;grey bar
+Extractor||any bar;any bar;any bar;any bar
+Combiner||grey bar;red bar;blue bar
+Cooker||grey bar;blue bar;blue bar

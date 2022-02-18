@@ -1,0 +1,66 @@
+unitLevel|amount|delay|entrance|message|tutorialKey|tutorialKeyRepeatable|rewards
+|||||||deactivate trashcan;build grey mine
+||||Hold (_bHammer) to hammer||Hammer Mine|
+||||Press (_bUse) to place/take/use||Place Furnace|build furnace
+|||||Wait Furnace||activate trashcan
+||||Take that block from the Furnace||Take Furnace|
+||||Place it somewhere on the ground||Add Construction|
+||||Do the same with a red one||Hammer Red Mine|build red mine
+||||Do the same with a red one||Place Furnace|
+||||Use sign to view building recipes||Read|save;recipe furnace;uncover 1
+||||Try to build Furnace using the recipe||Add Furnace|
+||||Nice! Hammer a chest to get items|||
+||||Check out new recipe (at sign)||Read|recipe pyramid
+||||Try to build it. Chest has all you need||Add Pyramid|chest red bar red bar grey bar
+||||This new building makes gems||Hammer Red Mine|
+||||||Place Pyramid|
+||||Gems can be used to build towers||Read|save;recipe tower
+||||Try to build a tower||Add Tower|
+||||You can disassemble tower using hammer||Hammer Tower|
+1|1|0|3|Move it closer to target dummy||clear|
+||||Hammer a wall to repair it||FullHp Wall|damage Wall 5
+2|3|5|0|Enemies incoming!||clear|
+||||Check The sign for combining instructions||Read|uncover 2
+||||Put one tower on the other to combine|TowerLevel 2||
+2|4|4|0|Nice. Now survive few waves||clear|
+3|3|5|0|||clear|
+4|1|5|0|Don't forget to repair wall||clear|
+||||Let's add a new building||Read|save;recipe extractor
+||||Try to build it|Add Extractor||chest grey bar grey bar grey bar
+||||You can combine it with Furnace|Add BarExtractor||
+2|5|3|0|Now you have production of bars||clear|
+3|5|5|0|Defend!|||
+4|1|5|0|||clear|
+||||New ore aviable!|Hammer Blue Mine||build blue mine
+|1|4||You can make blue gem for tower|||
+||||You can make even more ore using combiner|Read||save;recipe combiner
+||||You can make even more ore using combiner|Add Combiner||chest grey bar red bar blue bar
+||||You can make even more ore using combiner|Wait Combiner||
+2|10|2|1|Defense time!||clear|
+3|4|2||||clear|
+3|10|3||||clear|
+4|3|6|1|||clear|
+2|1|3|||||
+3|1|3|||||
+4|1|3||||clear|
+3|4|5|||||
+4|3|5||||clear|
+||||Check out new building||Read|save;recipe cooker
+||||Cooker makes potions from ore|Add Cooker||
+||||Cooker makes potions from ore||Place Cooker|
+||||Each potion is unique||Take Cooker|
+2|10|3|0|Don't forget to repair||clear|
+2|10|2|0|Good luck!|||
+3|10|3|0||||
+4|3|5|0|||clear|
+5|1|4|0|||clear|
+||||Put Gem Porducer on bar extractor|Add TowerExtractor||
+2|10|0.5|0||||
+3|5|4|0||||
+4|1|4|0||||
+5|1|4|0|||clear|
+3|1|3|0|Final push!|||
+4|2|4|0||||
+5|3|5|0|||clear|
+6|1|1||||clear|
+|1|8|0|Well done!|||
